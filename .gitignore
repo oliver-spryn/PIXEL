@@ -22,3 +22,14 @@
 /pixel-plugins/target/
 /pixel-commons/target/
 /pixel-web-enabled/target/
+
+.idea/
+ioio-android/android.iml
+ioio-bluetooth/bluetooth.iml
+ioio-commons/commons (1) (org.ioio).iml
+ioio-pc/ioio-pc.iml
+pixel-commons/commons (2) (org.onebeartoe.pixel).iml
+pixel-jee/pixel-jee.iml
+pixel-pc/pixel-pc.iml
+pixel-web-enabled/pixel-web-enabled.iml
+pixel.iml
